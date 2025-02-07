@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.client\\src\\components\\todoitem.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|solutionrelative:todoapp.client\\src\\components\\todoitem.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.server\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|solutionrelative:todoapp.server\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.client\\src\\components\\todolist.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|solutionrelative:todoapp.client\\src\\components\\todolist.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.server\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|solutionrelative:todoapp.server\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todoapp.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.server\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|solutionrelative:todoapp.server\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.server\\services\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|solutionrelative:todoapp.server\\services\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|solutionrelative:todoapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.server\\todoapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|solutionrelative:todoapp.server\\todoapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|solutionrelative:todoapp.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94A47DB-6158-4B78-AAC9-6FD5E8A9F2FD}|ToDoApp.Server\\ToDoApp.Server.csproj|solutionrelative:todoapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|solutionrelative:todoapp.client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|c:\\users\\zbctoli\\documents\\github\\h3\\projektstyring\\todoapp\\todoapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{380A2C2D-1DFD-4380-B677-4BFFA1B90474}|todoapp.client\\todoapp.client.esproj|solutionrelative:todoapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1894142962:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoApp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\appsettings.json",
+              "RelativeToolTip": "ToDoApp.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T11:07:15.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tasks.json",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\tasks.json",
+              "RelativeDocumentMoniker": "ToDoApp.Server\\tasks.json",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\tasks.json",
+              "RelativeToolTip": "ToDoApp.Server\\tasks.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T09:38:37.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\Services\\FileHelper.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Server\\Services\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\Services\\FileHelper.cs",
+              "RelativeToolTip": "ToDoApp.Server\\Services\\FileHelper.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:25:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Server\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDoApp.Server\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:30:32.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\src\\main.js",
+              "RelativeDocumentMoniker": "todoapp.client\\src\\main.js",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\src\\main.js",
+              "RelativeToolTip": "todoapp.client\\src\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T08:57:49.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "todoapp.client\\src\\App.vue",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\src\\App.vue",
+              "RelativeToolTip": "todoapp.client\\src\\App.vue",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-01-28T07:47:44.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoItem.vue",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\src\\components\\ToDoItem.vue",
+              "RelativeDocumentMoniker": "todoapp.client\\src\\components\\ToDoItem.vue",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\src\\components\\ToDoItem.vue",
+              "RelativeToolTip": "todoapp.client\\src\\components\\ToDoItem.vue",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAgwI8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-01-27T12:24:01.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoList.vue",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\src\\components\\ToDoList.vue",
+              "RelativeDocumentMoniker": "todoapp.client\\src\\components\\ToDoList.vue",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\src\\components\\ToDoList.vue",
+              "RelativeToolTip": "todoapp.client\\src\\components\\ToDoList.vue",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAgwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-01-27T12:00:16.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "runtime-core.esm-bundler.js",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js",
+              "RelativeDocumentMoniker": "todoapp.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js",
+              "RelativeToolTip": "todoapp.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAIwAsBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-29T11:17:08.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Server\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\Models\\TodoItem.cs",
+              "RelativeToolTip": "ToDoApp.Server\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:08:31.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\Program.cs",
+              "RelativeToolTip": "ToDoApp.Server\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:53:45.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoApp.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\ToDoApp.Server.csproj",
+              "RelativeDocumentMoniker": "ToDoApp.Server\\ToDoApp.Server.csproj",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\ToDoApp.Server\\ToDoApp.Server.csproj",
+              "RelativeToolTip": "ToDoApp.Server\\ToDoApp.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T07:08:41.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\vite.config.js",
+              "RelativeDocumentMoniker": "todoapp.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\vite.config.js",
+              "RelativeToolTip": "todoapp.client\\vite.config.js",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-27T12:04:32.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

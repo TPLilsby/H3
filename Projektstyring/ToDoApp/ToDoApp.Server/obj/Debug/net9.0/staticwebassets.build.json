@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "j0f5/CzBwpur1oBVeD+557AMY+wJh2/l8GP1a6Ki6ik=",
+  "Source": "ToDoApp.Server",
+  "BasePath": "_content/ToDoApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\zbctoli\\Documents\\GitHub\\H3\\Projektstyring\\ToDoApp\\todoapp.client\\todoapp.client.esproj",
+      "Version": 2,
+      "Source": "todoapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
